@@ -6,4 +6,4 @@ frag2_length = len(my_dna) - frag1_length
 
 print("length of fragment one is " + str(frag1_length))
 print("length of fragment two is " + str(frag2_length))
-print(len(my_dna))
+print(str(len(my_dna)) + " is total size")
